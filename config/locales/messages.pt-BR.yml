@@ -1,0 +1,22 @@
+"pt-BR":
+  messages:
+    confirm: Tem certeza?
+    listing: Listando
+    contact: Contato
+    errors: 'Verifique os erros abaixo:'
+    kinds:
+      notice:
+        create: Tipo criado com sucesso!
+        update: Tipo foi atualizado com sucesso!
+        destroy: Tipo excluido com sucesso!
+    contacts:
+      notice:
+        create: Contato criado com sucesso!
+        update: Contato atualizado com sucesso!
+        destroy: Contato excluido com sucesso!
+    address:
+      notice:
+        create: Endereço criado com sucesso!
+        update: Endereço atualizado com sucesso!
+        destroy: Endereço excluido com sucesso!
+        

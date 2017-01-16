@@ -1,0 +1,28 @@
+"pt-BR":
+  buttons:
+    contacts:
+      new: Novo
+      show: Mostrar
+      edit: Editar
+      destroy: Apagar
+      back: Voltar
+      home: Início
+    address: 
+      new: Novo
+      show: Mostrar
+      edit: Editar
+      destroy: Apagar
+      new_address: Novo Endereço
+    kinds: 
+      new: Novo
+      show: Mostrar
+      edit: Editar
+      back: Voltar
+      destroy: Apagar
+      new_kind: Novo Tipo
+    phones: 
+      new: Novo
+      show: Mostrar
+      edit: Editar
+      destroy: Apagar
+      

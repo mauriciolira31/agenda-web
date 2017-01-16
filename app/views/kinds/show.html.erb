@@ -1,0 +1,9 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @kind.description %>
+</p>
+
+<%= link_to t('buttons.kinds.edit'), edit_kind_path(@kind) %> |
+<%= link_to t('buttons.kinds.back'), kinds_path %>
